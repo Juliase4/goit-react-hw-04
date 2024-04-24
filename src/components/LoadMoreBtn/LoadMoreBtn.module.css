@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 16px;
+  background-color: plum;
+  color: white;
+}

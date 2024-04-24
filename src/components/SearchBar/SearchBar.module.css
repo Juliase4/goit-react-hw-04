@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: center;
+
+  padding: 30px 0;
+  width: 100%;
+  background-image: linear-gradient(to top, purple, white);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.input {
+  padding: 10px 16px;
+  outline: transparent;
+  border: none;
+  border-radius: 10px;
+  margin-right: 8px;
+  width: 250px;
+  background-color: white;
+}
+
+.btn {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 16px;
+  border: 1px solid #fff;
+  background-color: plum;
+}
